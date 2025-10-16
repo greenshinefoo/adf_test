@@ -1,0 +1,9 @@
+{
+	"name": "azuretestADFDataEngg",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e67ea569-40bf-4887-8750-602108b83d55",
+		"tenantId": "425426ba-b072-44f5-a106-0402d805fc53"
+	}
+}
